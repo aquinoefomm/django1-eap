@@ -120,3 +120,4 @@ STATIC_ROOT = Path(BASE_DIR, 'staticfiles') #usado durante a produção
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 LOGOUT_REDIRECT_URL = 'index'
+
