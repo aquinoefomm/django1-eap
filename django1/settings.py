@@ -25,7 +25,8 @@ SECRET_KEY = 'django-insecure-6z$qbl4r+juz0d+%!^6m680e0bcdumcvt1r7e2*4i&p#bs@=ds
 #DEBUG = True -> modo desenvolvimento.
 DEBUG = False
 
-ALLOWED_HOSTS = ['*'] # * define domínio indefinido.
+ALLOWED_HOSTS = ['https://web-production-6788.up.railway.app'] # define domínio.
+# https://web-production-6788.up.railway.app/
 
 # Application definition
 
